@@ -31,12 +31,12 @@ To view and interact with the dashboard [use the live demo](https://uyadsb.githu
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/your-username/Responsive-Business-Dashboar.git
 ```
 
 2. **Navigate to the project directory**:
 ```
-cd your-repository-name
+cd Responsive-Business-Dashboar
 ```
 
 3. **Open index.html**:
