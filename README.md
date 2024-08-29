@@ -53,6 +53,4 @@ Contributions are welcome! If you'd like to add features or improve the design, 
 
 ## Author
 
-- Frontend Mentor - [@Uyadsb](https://www.frontendmentor.io/profile/uyadsb)
 - LinkedIn - [@uyadsb](https://www.linkedin.com/in/iyad-sebti)
-- 
