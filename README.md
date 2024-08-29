@@ -1,4 +1,4 @@
-# Responsive Business Dashboard
+# Responsive Business Dashboard Site
 
 This project is a modern, responsive business dashboard built with HTML and CSS. It’s designed to provide a clear, organized view of key business metrics, making it an essential tool for monitoring and managing business performance.
 
