@@ -18,7 +18,7 @@ This project is a modern, responsive business dashboard built with HTML and CSS.
 
 ## Live demo
 
-[live demo](https://uyadsb.github.io/dashboard-site)
+[live demo](https://uyadsb.github.io/Responsive-Business-Dashboard)
 
 ## Purpose
 
@@ -27,11 +27,12 @@ This dashboard is ideal for small to medium-sized businesses or startups that ne
 
 ## Getting Started
 
-To view and interact with the dashboard [use the live demo](https://uyadsb.github.io/dashboard-site) or follow this:
+To view and interact with the dashboard [use the live demo](https://uyadsb.github.io/Responsive-Business-Dashboard) or follow this:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
 
 2. **Navigate to the project directory**:
 ```
@@ -39,7 +40,7 @@ cd your-repository-name
 ```
 
 3. **Open index.html**:
-Open the **index.html** file in your preferred web browser to see the dashboard in action.
+   Open the **index.html** file in your preferred web browser to see the dashboard in action.
 
 
 ## Customization
@@ -49,3 +50,9 @@ Feel free to modify the HTML and CSS files to fit your specific use case. The de
 ## Contributing
 
 Contributions are welcome! If you'd like to add features or improve the design, please fork the repository, create a new branch, and submit a pull request.
+
+## Author
+
+- Frontend Mentor - [@Uyadsb](https://www.frontendmentor.io/profile/uyadsb)
+- LinkedIn - [@uyadsb](https://www.linkedin.com/in/iyad-sebti)
+- 
